@@ -21,9 +21,8 @@ Este texto esta en **__negrita__** y cursiva_**
     1. Primer Submenu
     2. Segundo Submenu
 - Cuarta opcion de lista desordenada
-    +Tercer submenu
-    +Cuarto submenu
-
+    *Tercer submenu
+    *Cuarto submenu
 + Quinta opcion de lista desordenada
 + Sexta opcion de lista desordenada
 
